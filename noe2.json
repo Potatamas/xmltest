@@ -2,21 +2,25 @@
   {
     "lat": 59.415326,
     "lng": 9.067200,
-    "info": "Dusjparty"
+    "info": "Dusjparty",
+    "genre": "party"
   },
   {
     "lat": 59.413121,
     "lng": 9.072562,
-    "info": "Bursdag"
+    "info": "Bursdag",
+    "genre": "party"
   },
   {
     "lat": 59.415608,
     "lng": 9.089288,
-    "info": "Orgy"
+    "info": "Konsert",
+    "genre": "music"
   },
   {
     "lat": 59.432101,
     "lng": 9.044892,
-    "info": "Gaming"
+    "info": "Gaming",
+    "genre": "videogames"
   }
 ]
