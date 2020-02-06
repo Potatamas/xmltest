@@ -22,5 +22,11 @@
     "lng": 9.044892,
     "info": "Gaming",
     "genre": "videogames"
+  },
+  {
+    "lat": 59.401337, 
+    "lng": 9.073015,	
+    "info": "Band Audition",
+    "music": "music"	
   }
 ]
