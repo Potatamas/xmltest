@@ -3,30 +3,35 @@
     "lat": 59.415326,
     "lng": 9.067200,
     "info": "Dusjparty",
-    "genre": "party"
+    "genre": "party",
+    "link": "https://www.deviantart.com/flygonfan"
   },
   {
     "lat": 59.413121,
     "lng": 9.072562,
     "info": "Bursdag",
-    "genre": "party"
+    "genre": "party",
+    "link": "https://www.deviantart.com/flygonfan"
   },
   {
     "lat": 59.415608,
     "lng": 9.089288,
     "info": "Konsert",
-    "genre": "music"
+    "genre": "music",
+    "link": "https://www.deviantart.com/flygonfan"
   },
   {
     "lat": 59.432101,
     "lng": 9.044892,
     "info": "Gaming",
-    "genre": "videogames"
+    "genre": "videogames",
+    "link": "https://www.deviantart.com/flygonfan"
   },
   {
     "lat": 59.401337, 
     "lng": 9.073015,	
     "info": "Band Audition",
-    "genre": "music"	
+    "music": "music",
+    "link": "https://www.deviantart.com/flygonfan"
   }
 ]
