@@ -42,9 +42,17 @@
   {
     "lat": 59.411337, 
     "lng": 9.08015,	
-    "info": "Sondre er ensom",
-    "txt": "sondre er veldig ensom og trenger en skulder å gråte på ring: 9999999 for å få tak i denne tristen ungkaren",
-    "genre": "sport",
+    "info": "Band Audition",
+    "txt": "tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker",
+    "genre": "music",
+    "link": "https://www.deviantart.com/flygonfan"
+  },
+    {
+    "lat": 59.431337, 
+    "lng": 9.08915,	
+    "info": "Hjelp, jeg sliter med innleveringen",
+    "txt": "... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ,
+    "genre": "homework",
     "link": "https://www.deviantart.com/flygonfan"
   }
 ]
