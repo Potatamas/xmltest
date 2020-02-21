@@ -42,17 +42,25 @@
   {
     "lat": 59.411337, 
     "lng": 9.08015,	
-    "info": "Band Audition",
+    "info": "Sjakklubb",
     "txt": "tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker tinker tanker tonker",
-    "genre": "music",
+    "genre": "boardgames",
     "link": "https://www.deviantart.com/flygonfan"
   },
-    {
+  {
     "lat": 59.431337, 
     "lng": 9.08915,	
     "info": "Hjelp, jeg sliter med innleveringen",
-    "txt": "... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ",
+    "txt": "... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ...   ... --- ..."   ,
     "genre": "homework",
+    "link": "https://www.deviantart.com/flygonfan"
+  },
+  {
+    "lat": 59.431337, 
+    "lng": 9.08915,	
+    "info": "Voldball i bingn gutta!! Nåska de spelles",
+    "txt": "Det er snø og is i binga sa da spilles det røft",
+    "genre": "sport",
     "link": "https://www.deviantart.com/flygonfan"
   }
 ]
